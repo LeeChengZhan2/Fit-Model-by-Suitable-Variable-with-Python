@@ -1,4 +1,4 @@
-# Fit-Model-by-Suitable-Variable-with-Python
+# Fit Model by Suitable Variable with Python
 The attach file is the assignment I did with other 2 teammate when I was studying bachelor of science in managenment mathematics with computing at Tun Abdul Rahman University College. This assignment is try to fit the linear and multiple linear regression model with suitable variable by using the data(“LifeExpectancy.csv”)from kaggle.
 
 ### Summary
